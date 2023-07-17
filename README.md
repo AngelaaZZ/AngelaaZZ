@@ -1,7 +1,7 @@
-- 👋 
-- 👀 I’m interested in ...
+- 👋
 - 🌱 Math/Statistic @ University of Waterloo
-- 📫 @angelaaaaa.zhou 
+- 📫 @angelaaaaa.zhou
+- New to Git ... 
 
 <!---
 AngelaaZZ/AngelaaZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
